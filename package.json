@@ -1,6 +1,7 @@
 {
+  "homepage": "https://adityasharma024.github.io/mywebsite",
   "name": "portfolio",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -20,7 +21,7 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.21.3",
     "typed.js": "^2.1.0",
-    "homepage": "http://adityasharma024.github.io/portfolio"
+
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
