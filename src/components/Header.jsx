@@ -14,7 +14,7 @@ const Header = () => {
 
   const actionButton = {
     title: "Download CV",
-    link: "https://drive.google.com/file/d/1MnlKfn2U1yWkaSJiQRk_rVjfc4AM8Pnj/view?usp=drive_link",
+    link: "https://drive.google.com/file/d/1w1Bo81eChwvGgtshTL4yPOFWS1byGJzB/view?usp=sharing",
   };
 
   const [isMenuOpen, setIsMenuOpen] = useState(false);
