@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import bannerImage from '../assets/Untitled.jpg';
+import bannerImage from '../assets/adityasharma.jpg';
 
 const About = () => {
   const [isExpanded, setIsExpanded] = useState(false);
