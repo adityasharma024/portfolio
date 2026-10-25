@@ -1,10 +1,12 @@
 import React from 'react';
+import VisitorCounter from './VisitorCounter';
 
 const Footer = () => {
   return (
     <div className="pt-5 mt-6 bg-gray-100 flex flex-col sm:flex-row justify-between px-4 sm:px-8 md:px-16 lg:px-32 xl:px-64">
       <div className="mb-4 sm:mb-0">
         <p>@2024 Aditya Sharma  <span>All Rights Reserved</span></p>
+        <VisitorCounter />
       </div>
       <div className="space-y-2 sm:space-y-0 space-x-5 flex flex-col sm:flex-row">
         <a className="hover:underline" href="./about">About</a>
